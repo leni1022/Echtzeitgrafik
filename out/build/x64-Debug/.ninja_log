@@ -1,0 +1,19 @@
+# ninja log v5
+26	288	7439598962846818	CMakeFiles/STB_IMAGE.dir/thirdparty/stb_image.cpp.obj	19e64a47d14c5a77
+289	483	7439598964767730	STB_IMAGE.lib	6b768d44e9cf6fc7
+4	782	7439681173095901	CMakeFiles/Echtzeitgrafik.dir/src/main.cpp.obj	76ef23088b69e047
+872	1535	7439601794666022	Echtzeitgrafik.exe	4979ed2eb53fd7d2
+22	544	7439679608068591	CMakeFiles/Echtzeitgrafik.dir/src/shader.cpp.obj	cf965ed2ac2bf2c4
+5	946	7439683275520055	CMakeFiles/Echtzeitgrafik.dir/src/main.cpp.obj	76ef23088b69e047
+2	25	0	clean	8c45b54705a541e8
+38	314	7439685352063322	CMakeFiles/STB_IMAGE.dir/thirdparty/stb_image.cpp.obj	19e64a47d14c5a77
+317	407	7439685352859482	STB_IMAGE.lib	6b768d44e9cf6fc7
+22	571	7439685354608018	CMakeFiles/Echtzeitgrafik.dir/src/shader.cpp.obj	cf965ed2ac2bf2c4
+4	823	7439685357152381	CMakeFiles/Echtzeitgrafik.dir/src/main.cpp.obj	76ef23088b69e047
+824	1317	7439685360119285	Echtzeitgrafik.exe	34056d4b552802bc
+4	788	7439685930386757	CMakeFiles/Echtzeitgrafik.dir/src/main.cpp.obj	76ef23088b69e047
+2	26	0	clean	8c45b54705a541e8
+42	315	7439686060129398	CMakeFiles/STB_IMAGE.dir/thirdparty/stb_image.cpp.obj	19e64a47d14c5a77
+316	420	7439686061155416	STB_IMAGE.lib	6b768d44e9cf6fc7
+23	563	7439686062614483	CMakeFiles/Echtzeitgrafik.dir/src/shader.cpp.obj	cf965ed2ac2bf2c4
+4	857	7439686065542908	CMakeFiles/Echtzeitgrafik.dir/src/main.cpp.obj	76ef23088b69e047
